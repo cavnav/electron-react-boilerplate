@@ -1,0 +1,12 @@
+ find flash
+ copy flash 
+ clean flash
+ catalog
+ move
+ show
+ next
+ prev 
+ remove
+ rotate
+ print
+ share
